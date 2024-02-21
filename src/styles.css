@@ -92,3 +92,7 @@ button {
   gap: 20px;
   padding-block: 20px;
 }
+
+.center {
+  place-self: center;
+}
